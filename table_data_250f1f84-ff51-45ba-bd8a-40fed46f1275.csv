@@ -1,0 +1,148 @@
+Domain_Strand,Sequence,Trial
+ABS,gAggC,1
+ABS*,gCCUC,1
+ABS_,Ug,1
+ABS_*,CA,1
+ATS,UgUCUUUUC,1
+ATS*,gAAAAgACA,1
+Complementstart,CAU,1
+Complementstart*,AUg,1
+DBSCom,gCUUC,1
+DBSCom*,gAAgC,1
+Loop,UA,1
+Loop*,UA,1
+RBS,UAgAggAgAUg,1
+RBS*,CAUCUCCUCUA,1
+StartCodon,AUg,1
+StartCodon*,CAU,1
+_DBS,Cg,1
+_DBS*,Cg,1
+loopCom,gU,1
+loopCom*,AC,1
+loopRBS,gA,1
+loopRBS*,UC,1
+miR21bottomseal1,gAggCAAgUgUC,1
+miR21bottomseal1*,gACACUUgCCUC,1
+miR21bottomseal2,UgAUACUUgCUUC,1
+miR21bottomseal2*,gAAgCAAgUAUCA,1
+miR21topseal,AUggUgUUg,1
+miR21topseal*,CAACACCAU,1
+miR92bottomseal1,ggACgCggAggUC,1
+miR92bottomseal1*,gACCUCCgCgUCC,1
+miR92bottomseal2,ACCUCCgUgUCC,1
+miR92bottomseal2*,ggACACggAggU,1
+miR92topseal,CggUUUgUU,1
+miR92topseal*,AACAAACCg,1
+toeholdmiR92,ACAggCCgggACAAgUgCAAUA,1
+toeholdmiR92*,UAUUgCACUUgUCCCggCCUgU,1
+toeholdmir21,UCAACAUCAgUCUgAUAAgCUA,1
+toeholdmir21*,UAgCUUAUCAgACUgAUgUUgA,1
+LiRA,gAggCCAUUgUAUgUCUUUUCgAgAggCAAgUgUCUCAACAUCAgUCUgAUAAgCUAAUggUgUUgUgAUACUUgCUUCggACgCggAggUCACAggCCgggACAAgUgCAAUACggUUUgUUACCUCCgUgUCCUAgAggAgAUggUCgAUggCUUC,1
+Strand 2,,1
+Strand 3,,1
+Strand 4,,1
+Strand 5,,1
+Strand 6,,1
+Strand 7,,1
+Strand 8,,1
+Strand 9,,1
+Strand 10,,1
+Strand 11,,1
+ABS,gAggU,2
+ABS*,ACCUC,2
+ABS_,CU,2
+ABS_*,Ag,2
+ATS,CgUCUUUUC,2
+ATS*,gAAAAgACg,2
+Complementstart,CAU,2
+Complementstart*,AUg,2
+DBSCom,gCUUC,2
+DBSCom*,gAAgC,2
+Loop,Ag,2
+Loop*,CU,2
+RBS,UAgAggAgAUg,2
+RBS*,CAUCUCCUCUA,2
+StartCodon,AUg,2
+StartCodon*,CAU,2
+_DBS,Ag,2
+_DBS*,CU,2
+loopCom,gg,2
+loopCom*,CC,2
+loopRBS,gU,2
+loopRBS*,AC,2
+miR21bottomseal1,CggUgggAUACC,2
+miR21bottomseal1*,ggUAUCCCACCg,2
+miR21bottomseal2,UggUgUCCCAUUg,2
+miR21bottomseal2*,CAAUgggACACCA,2
+miR21topseal,AUggUgUUg,2
+miR21topseal*,CAACACCAU,2
+miR92bottomseal1,gCUCAgAUUUgAA,2
+miR92bottomseal1*,UUCAAAUCUgAgC,2
+miR92bottomseal2,UUAgAUCUgAgU,2
+miR92bottomseal2*,ACUCAgAUCUAA,2
+miR92topseal,CggCCUgUg,2
+miR92topseal*,CACAggCCg,2
+toeholdmiR92,ACAggCCgggACAAgUgCAAUA,2
+toeholdmiR92*,UAUUgCACUUgUCCCggCCUgU,2
+toeholdmir21,UCAACAUCAgUCUgAUAAgCUA,2
+toeholdmir21*,UAgCUUAUCAgACUgAUgUUgA,2
+LiRA,gAggUCAUCUAgCgUCUUUUCgUCggUgggAUACCUCAACAUCAgUCUgAUAAgCUAAUggUgUUgUggUgUCCCAUUggCUCAgAUUUgAAACAggCCgggACAAgUgCAAUACggCCUgUgUUAgAUCUgAgUUAgAggAgAUgggAgAUggCUUC,2
+Strand 2,,2
+Strand 3,,2
+Strand 4,,2
+Strand 5,,2
+Strand 6,,2
+Strand 7,,2
+Strand 8,,2
+Strand 9,,2
+Strand 10,,2
+Strand 11,,2
+ABS,ggAgU,3
+ABS*,ACUCC,3
+ABS_,Cg,3
+ABS_*,Cg,3
+ATS,CAUCUCUUU,3
+ATS*,AAAgAgAUg,3
+Complementstart,CAU,3
+Complementstart*,AUg,3
+DBSCom,gCUUC,3
+DBSCom*,gAAgC,3
+Loop,CA,3
+Loop*,Ug,3
+RBS,UAgAggAgAUg,3
+RBS*,CAUCUCCUCUA,3
+StartCodon,AUg,3
+StartCodon*,CAU,3
+_DBS,Cg,3
+_DBS*,Cg,3
+loopCom,AC,3
+loopCom*,gU,3
+loopRBS,gC,3
+loopRBS*,gC,3
+miR21bottomseal1,ggUUUAUAAUgC,3
+miR21bottomseal1*,gCAUUAUAAACC,3
+miR21bottomseal2,CgUAUUAUAgACC,3
+miR21bottomseal2*,ggUCUAUAAUACg,3
+miR21topseal,gUgAUgUUg,3
+miR21topseal*,CAACAUCAC,3
+miR92bottomseal1,AgggUCgUUAgUg,3
+miR92bottomseal1*,CACUAACgACCCU,3
+miR92bottomseal2,ACUgACggCCCU,3
+miR92bottomseal2*,AgggCCgUCAgU,3
+miR92topseal,CggUUUgUg,3
+miR92topseal*,CACAAACCg,3
+toeholdmiR92,ACAggCCgggACAAgUgCAAUA,3
+toeholdmiR92*,UAUUgCACUUgUCCCggCCUgU,3
+toeholdmir21,UCAACAUCAgUCUgAUAAgCUA,3
+toeholdmir21*,UAgCUUAUCAgACUgAUgUUgA,3
+LiRA,ggAgUCAUCgCACAUCUCUUUgCggUUUAUAAUgCUCAACAUCAgUCUgAUAAgCUAgUgAUgUUgCgUAUUAUAgACCAgggUCgUUAgUgACAggCCgggACAAgUgCAAUACggUUUgUgACUgACggCCCUUAgAggAgAUgACCgAUggCUUC,3
+Strand 2,,3
+Strand 3,,3
+Strand 4,,3
+Strand 5,,3
+Strand 6,,3
+Strand 7,,3
+Strand 8,,3
+Strand 9,,3
+Strand 10,,3
+Strand 11,,3
